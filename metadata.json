@@ -1,0 +1,6 @@
+{
+  "name": "InterviewLM",
+  "description": "Interactive grounded AI resume chat and mock interview system with strict NotebookLM-style citations, automated scoring, and tailored feedback reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
